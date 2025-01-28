@@ -1,0 +1,30 @@
+head1{
+    text-align: center;
+}
+h1{
+   
+}
+.main{
+    background-image: url('home.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#donor-login{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+.donor, .ndonor{
+    background-image: url('donor1.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    width: auto;
+    color: rgb(0, 0, 0);
+}
+input{
+    border-radius: 6px;
+    padding: 5px;
+
+}
